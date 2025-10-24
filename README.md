@@ -42,3 +42,5 @@ Benefits of Use Case Diagrams:
 -Provide a clear visual representation of system functionalities.
 -Help in identifying and organizing system requirements.
 -Facilitate communication among stakeholders and development team.
+
+The diagram below illustrates the interactions between users and the booking system.
