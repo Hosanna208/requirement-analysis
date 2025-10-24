@@ -44,3 +44,4 @@ Benefits of Use Case Diagrams:
 -Facilitate communication among stakeholders and development team.
 
 The diagram below illustrates the interactions between users and the booking system.
+![Booking System Use Case Diagram](alx-booking-uc.png)
